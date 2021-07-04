@@ -1,1 +1,2 @@
 file for merge-conflict 
+changed line added
