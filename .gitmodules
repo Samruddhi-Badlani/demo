@@ -1,0 +1,3 @@
+[submodule "first_submodule"]
+	path = first_submodule
+	url = https://github.com/Samruddhi-Badlani/demo.git
