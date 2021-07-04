@@ -1,1 +1,1 @@
-file1 
+merge conflict solved 
